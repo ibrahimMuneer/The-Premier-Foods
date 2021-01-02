@@ -47,13 +47,13 @@ Colors:
 /*     01. General Styles     */
 /******************************/
 @font-face {
-	src: url(webfonts/WC_Wunderbach_Rough.ttf);
-	font-family: WC_Wunderbach_Rough;
+	src: url(../webfonts/WC_Wunderbach_Rough.ttf);
+	font-family: 'WC_Wunderbach_Rough';
 }
 
 @font-face {
-	src: url(webfonts/ARDESTINE.ttf);
-	font-family: ARDESTINE;
+	src: url(../webfonts/ARDESTINE.ttf);
+	font-family: 'ARDESTINE';
 }
 
 body,
@@ -2467,5 +2467,5 @@ a:hover.back-to-top {
 }
 /* end of min-width width 1200px */
 #js-rotating {
-	font-family: 'AR DESTINE';
+	font-family: 'ARDESTINE';
 }
