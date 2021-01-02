@@ -47,12 +47,12 @@ Colors:
 /*     01. General Styles     */
 /******************************/
 @font-face {
-	src: url(../webfonts/WC_Wunderbach_Rough.ttf);
+	src: url(../webfonts/WC_Wunderbach_Rough.ttf) format('ttf');
 	font-family: 'WC_Wunderbach_Rough';
 }
 
 @font-face {
-	src: url(../webfonts/ARDESTINE.ttf);
+	src: url(../webfonts/ARDESTINE.ttf) format('ttf');
 	font-family: 'ARDESTINE';
 }
 
