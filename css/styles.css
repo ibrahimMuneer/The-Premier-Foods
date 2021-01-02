@@ -46,6 +46,16 @@ Colors:
 /******************************/
 /*     01. General Styles     */
 /******************************/
+@font-face {
+	src: url(../webfonts/WC_Wunderbach_Rough.ttf);
+	font-family: WC_Wunderbach_Rough;
+}
+
+@font-face {
+	src: url(../webfonts/ARDESTINE.ttf);
+	font-family: ARDESTINE;
+}
+
 body,
 html {
     width: 100%;
